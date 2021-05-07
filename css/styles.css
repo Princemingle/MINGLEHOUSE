@@ -38,6 +38,9 @@ body {
     box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
 	padding: 2rem;
 	background-color: black;
+    border-radius: 20px;
+    margin-top: 4vh;
+    margin-bottom: 4vh;
 }
 
 .form-box .form-control{
